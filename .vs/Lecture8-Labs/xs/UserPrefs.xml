@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7CAEF39D-B4C9-4B9B-8836-77A03A8B354B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1/Program.cs">
+    <Files>
+      <File FileName="Lab1/Program.cs" Line="31" Column="60" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="2685" Y="23" Width="640" Height="746">
+        <Files>
+          <File FileName="Lab1/Pizza.cs" Line="96" Column="56" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lecture8-Labs" expanded="True">
+            <Node name="Lab1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
